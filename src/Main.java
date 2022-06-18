@@ -3,6 +3,7 @@ public class Main {
 
         //* Primera parte - Paso de datos*/
         int result = params(10,10,10);
+        System.out.println(result);
 
         //* Segunda parte - incremento de puertas*/
         Coche miCoche = new Coche();
